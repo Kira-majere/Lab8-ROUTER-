@@ -6,7 +6,7 @@ import { form } from "react-bootstrap";
 const MainPage = () => (
   <div>
     <Layout />
-    <div>Это главная страница</div>
+    <div>Это главная страница ERF</div>
   </div>
 );
 
